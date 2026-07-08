@@ -13,6 +13,7 @@
 | 04 | 미들웨어 (Middleware) | [04-middleware.md](04-middleware.md) | [docs](https://docs.nestjs.com/middleware) |
 | 05 | 예외 필터 (Exception Filter) | [05-exception-filters.md](05-exception-filters.md) | [docs](https://docs.nestjs.com/exception-filters) |
 | 06 | 파이프 (Pipe) | [06-pipes.md](06-pipes.md) | [docs](https://docs.nestjs.com/pipes) |
+| 07 | 가드 (Guard) | [07-guards.md](07-guards.md) | [docs](https://docs.nestjs.com/guards) |
 
 ## 노트 구성
 
@@ -30,4 +31,4 @@
 
 ---
 
-_마지막 업데이트: 2026-07-07_
+_마지막 업데이트: 2026-07-08_
