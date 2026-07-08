@@ -14,6 +14,7 @@
 | 05 | 예외 필터 (Exception Filter) | [05-exception-filters.md](05-exception-filters.md) | [docs](https://docs.nestjs.com/exception-filters) |
 | 06 | 파이프 (Pipe) | [06-pipes.md](06-pipes.md) | [docs](https://docs.nestjs.com/pipes) |
 | 07 | 가드 (Guard) | [07-guards.md](07-guards.md) | [docs](https://docs.nestjs.com/guards) |
+| 08 | 인터셉터 (Interceptor) | [08-interceptors.md](08-interceptors.md) | [docs](https://docs.nestjs.com/interceptors) |
 
 ## 노트 구성
 
