@@ -15,6 +15,7 @@
 | 06 | 파이프 (Pipe) | [06-pipes.md](06-pipes.md) | [docs](https://docs.nestjs.com/pipes) |
 | 07 | 가드 (Guard) | [07-guards.md](07-guards.md) | [docs](https://docs.nestjs.com/guards) |
 | 08 | 인터셉터 (Interceptor) | [08-interceptors.md](08-interceptors.md) | [docs](https://docs.nestjs.com/interceptors) |
+| 09 | 커스텀 데코레이터 (Custom Decorator) | [09-custom-decorators.md](09-custom-decorators.md) | [docs](https://docs.nestjs.com/custom-decorators) |
 
 ## 노트 구성
 
